@@ -1,0 +1,20 @@
+Loaded data: (114, 7)
+
+First 5 rows:
+   post_id   title   category   score   num_comments ...
+
+Average score   : 12450.23
+Average comments: 342.11
+
+--- NumPy Stats ---
+Mean score   : 12450.23
+Median score : 8200.00
+Std deviation: 9870.45
+Max score    : 87432
+Min score    : 5
+
+Most stories in: technology (22 stories)
+
+Most commented story: "AI model beats humans at coding" — 4891 comments
+
+Saved to data/trends_analysed.csv
